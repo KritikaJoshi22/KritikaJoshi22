@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritika Joshi</h1>
-<h3 align="center">Web3 enthusiast | Second-year undergrad with a passion for decentralized technologies | Thrives on problem-solving and building solutions.</h3>
+<h3 align="center">Web3 enthusiast | Third-year undergrad with a passion for decentralized technologies | Thrives on problem-solving and building solutions.</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Solidity.<br><br>💬 Ask me about Blockchain, Python, and Networking (Hit me up for any chess gossip too!!♟️).<br><br>📫 Reach me at joshikritika102@gmail.com.<br><br>⚡ Fun fact about me is that my rejection tweet got viral surpassing everything I ever did on social media to glorify me.😭<br>
